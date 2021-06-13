@@ -21,7 +21,7 @@ function MainContent(): JSX.Element {
         </p>
       </section>
       <section>
-        <h2>Musing of the month ({location.city}, March 2003)</h2>
+        <h2>Musing of the month ({location.city}, June 2021)</h2>
         <p>
           Q: How much wood could a woodchuck chuck if a woodchuck could chuck
           wood?
